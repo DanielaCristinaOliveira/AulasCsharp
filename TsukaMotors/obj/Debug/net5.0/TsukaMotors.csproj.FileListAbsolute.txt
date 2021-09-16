@@ -1,0 +1,5 @@
+C:\Users\dev\Documents\TsukaMotors\obj\Debug\net5.0\TsukaMotors.csproj.AssemblyReference.cache
+C:\Users\dev\Documents\TsukaMotors\obj\Debug\net5.0\TsukaMotors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Documents\TsukaMotors\obj\Debug\net5.0\TsukaMotors.AssemblyInfoInputs.cache
+C:\Users\dev\Documents\TsukaMotors\obj\Debug\net5.0\TsukaMotors.AssemblyInfo.cs
+C:\Users\dev\Documents\TsukaMotors\obj\Debug\net5.0\TsukaMotors.csproj.CoreCompileInputs.cache
